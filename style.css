@@ -1,0 +1,129 @@
+#title {
+  background-color: #BD1616;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 5rem;
+  line-height: 1.5;
+  color: #11052C;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #11052C;
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
+.navbar-Brand {
+  font-family: "Bebas Neue";
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.download-button {
+  margin: 1% 3% 2% 1%;
+}
+
+.title-img {
+  width: 11%;
+  transform: rotate(25deg);
+  position: absolute;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+#feature {
+  padding: 7% 5%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-color {
+  margin-bottom: 1.5rem;
+}
+
+.feature-color:hover {
+  color: #F14668;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #93B5C6;
+  color: #fff;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+#cta {
+  background-color: #B8DFD8;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+#footer {
+  background-color: #11052C;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.testimonials-img {
+  border-radius: 100%;
+}
+
+@media (max-width:1028px) {
+  .title-img {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.pricing-text {
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.coursel-item {
+  height: 50px;
+}
+
+.test-img {
+  width: 21%;
+}
+
+.testimonial-img {
+  padding: 4% 15%;
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}

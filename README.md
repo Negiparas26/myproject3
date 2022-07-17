@@ -1,2 +1,4 @@
-# myproject3
-netflix.com
+#project 1 (netflix website)
+netflix.com 
+using (html ,css)
+
